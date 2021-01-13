@@ -5,7 +5,40 @@
 * Currently, I am in my last semester of my Master's degree in Applied Computer Science at Northwest Missouri State University.
 * I have worked as an intern at Hornbill Pvt. ltd for three months and developed an Android Application for a logistics company.
 - 🌱 I’m currently learning Java and Spring.
-- 📫 How to reach me: Mail: g.d.prasad004@gmail.com
+
+<br>
+
+## Collaboration 👯:
+* https://github.com/GD-Prasad/repositories
+
+<br>
+
+## Languages:
+* GitHub Markdown
+* Java
+* Python
+* HTML and CSS
+
+<br>
+
+## My Education:
+* Undergraduate at Karavali Institute of Technology, Mangalore, Krnataka. (2019)
+* Graduate at Northwest Missouri State University. (2021)
+
+<br>
+
+## Work:
+* Worked as an Intern for Hornbill. Pvt. ltd for three months and helped design an Android Application for a Logistics Company.
+* Worked as a Teaching Assistant for Digital Forensics class at Northwest Missouri State Uniiversity for Fall semester 2020.
+* Present, working as a Graduate Assistant for Big Data class at Northwest Missouri State University for Spring semester 2021.
+
+<br>
+
+## Connections 📫:
+* LinkedIn: www.linkedin.com/in/GD-prasad
+* Mail: g.d.prasad004@gmail.com
+
+<br>
 
 <!--
 **GD-Prasad/GD-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
