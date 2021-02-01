@@ -10,6 +10,20 @@
 
 ## Collaboration 👯:
 * https://github.com/GD-Prasad/repositories
+* Git: Create / Clone / Init / Add / Commit / Push 
+* GitHub: Profile / Repos / Settings
+## Publishing
+* GitHub Pages 
+* Heroku
+## Languages
+* GitHub Markdown
+* HTML: Semantic tags / geolocation / speech synthesis
+* JavaScript
+## IDEs/Editors
+* VS Code
+## JavaScript
+* Basics: variables / literals / scope / if-else / functions
+* modules / let / const / arrow functions / promises / async / await
 
 <br>
 
