@@ -2,8 +2,6 @@
 ## My Info ⚡:
 * Hello Everyone, I am Prasad Golla Durga, but people call me GD.
 * I am from Bangalore, Karnataka State in India. I have completed my undergraduate in Computer Science from Karavali Institute of Technology, Mangalore, Karnataka. 
-* Currently, I am in my last semester of my Master's degree in Applied Computer Science at Northwest Missouri State University.
-* I have worked as an intern at Hornbill Pvt. ltd for three months and developed an Android Application for a logistics company.
 - 🌱 I’m currently learning Java and Spring.
 
 <br>
@@ -35,11 +33,7 @@
 
 <br>
 
-## My Education:
-* Undergraduate at Karavali Institute of Technology, Mangalore, Krnataka. (2019)
-* Graduate at Northwest Missouri State University. (2021)
 
-<br>
 
 ## Work:
 * Worked as an Intern for Hornbill. Pvt. ltd for three months and helped design an Android Application for a Logistics Company.
@@ -48,11 +42,6 @@
 
 <br>
 
-## Connections 📫:
-* LinkedIn: www.linkedin.com/in/GD-prasad
-* Mail: g.d.prasad004@gmail.com
-
-<br>
 
 <!--
 **GD-Prasad/GD-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
